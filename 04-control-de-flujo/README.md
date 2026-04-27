@@ -39,10 +39,10 @@ Range-for mejora mucho la lectura cuando recorres colecciones.
 
 ---
 
-## Errores comunes
+## Errores comúnes
 
 - olvidar `break` en `switch`;
-- crear ciclos sin actualizar la condicion;
+- crear ciclos sin actualizar la condición;
 - usar `for` tradicional cuando range-for seria mas claro;
 - escribir condiciones complejas sin parentesis.
 

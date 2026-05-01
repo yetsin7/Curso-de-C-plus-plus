@@ -1,4 +1,4 @@
-# Libro de C++ — De cero a PRO
+# Curso de C++ — De cero a PRO
 
 Guía completa de C++ desde los fundamentos hasta la programación moderna, con
 enfoque en rendimiento, control de recursos y pensamiento técnico profundo.
@@ -149,7 +149,7 @@ Esta ruta es relativa a cada subcarpeta de capítulo. Ver
 ## Estructura del proyecto
 
 ```
-Libro de C++/
+Curso de C++/
 ├── README.md                  ← Este archivo
 ├── datos/
 │   └── README.md              ← Info sobre la BD de la Biblia

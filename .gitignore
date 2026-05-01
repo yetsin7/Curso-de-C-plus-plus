@@ -1,0 +1,17 @@
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+*.gch
+*.pch
+build/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+*.log

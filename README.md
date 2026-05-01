@@ -3,7 +3,7 @@
 Guía completa de C++ desde los fundamentos hasta la programación moderna, con
 enfoque en rendimiento, control de recursos y pensamiento técnico profundo.
 
-Repositorio oficial: https://github.com/yetsin7/Curso-de-C-Plus-Plus
+Repositorio oficial: https://github.com/yetsin7/Curso-de-C-plus-plus
 
 ---
 
@@ -103,8 +103,8 @@ computadora. Puedes estudiar sin conexión, en tu casa, en la universidad o
 donde tengas acceso a una computadora.
 
 ```bash
-git clone https://github.com/yetsin7/Curso-de-C-Plus-Plus.git
-cd Curso-de-C-Plus-Plus
+git clone https://github.com/yetsin7/Curso-de-C-plus-plus.git
+cd Curso-de-C-plus-plus
 ```
 
 Cada capítulo tiene su propia carpeta con su `README.md` y archivos `.cpp`
@@ -185,7 +185,7 @@ llegue a más estudiantes:
 - Envía un pull request si quieres mejorar un capítulo, corregir un texto o
   proponer un nuevo ejemplo. Toda contribución cuenta.
 
-Repositorio: https://github.com/yetsin7/Curso-de-C-Plus-Plus
+Repositorio: https://github.com/yetsin7/Curso-de-C-plus-plus
 
 Mientras más nicaragüenses aprendamos a programar, más oportunidades vamos
 a abrir para nuestra generación y para las que vienen. Gracias por estudiar,

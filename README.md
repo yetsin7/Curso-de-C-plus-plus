@@ -7,7 +7,7 @@ Repositorio oficial: https://github.com/yetsin7/Curso-de-C-plus-plus
 
 ## Documentacion de referencia
 
-Consulta [DOCUMENTACION-OFICIAL.md](./DOCUMENTACION-OFICIAL.md) para tener a
+Consulta [Documentación-C-plus-plus.md](./Documentación-C-plus-plus.md) para tener a
 mano la referencia oficial y los recursos clave del lenguaje.
 
 ---

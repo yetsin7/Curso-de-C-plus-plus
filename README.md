@@ -5,6 +5,11 @@ enfoque en rendimiento, control de recursos y pensamiento técnico profundo.
 
 Repositorio oficial: https://github.com/yetsin7/Curso-de-C-plus-plus
 
+## Documentacion de referencia
+
+Consulta [DOCUMENTACION-OFICIAL.md](./DOCUMENTACION-OFICIAL.md) para tener a
+mano la referencia oficial y los recursos clave del lenguaje.
+
 ---
 
 ## Para estudiantes de Nicaragua (y de toda Latinoamérica)
